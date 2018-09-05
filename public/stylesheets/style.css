@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "KGBlankSpaceSketch";
+  src: url("/fonts/KGBlankSpaceSketch.ttf");
+}
+
+body {
+  padding: 50px;
+  font-family: 'KGBlankSpaceSketch';
+  color: rgb(255, 86, 86);
+  background-image: url("/images/bluemap.jpg");
+}
+
+a {
+  color: #00B7FF;
+}
+
+mainTitle{
+  font-size: 100px;
+}
